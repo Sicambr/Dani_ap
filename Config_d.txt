@@ -1,0 +1,4 @@
+Way for tools
+d:/WORK/Catalog/data/BUMOTEC.json
+Way for files
+c:/Users/cnc/PycharmProjects/pythonProject/Dani_ap/bum/

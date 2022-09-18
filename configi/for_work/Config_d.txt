@@ -1,0 +1,4 @@
+Way for tools
+C:/Users/stepanovma/Desktop/BUMOTEC/Catalog/data/BUMOTEC.json
+Way for files
+D:/ZORIN/Python/Python38-32/My_programms/For_bumotec/Bumcheck/bum/

@@ -1,0 +1,4 @@
+Way for tools
+C:/Users/Atopus/first/pythonProject/Catalog/data/BUMOTEC.json
+Way for files
+C:/Users/Atopus/first/pythonProject/bum/
